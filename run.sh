@@ -3,7 +3,7 @@ set -e
 cd ${TOMCAT_HOME}/newrelic
 sed -i "s/log_level:\ info/log_level:\ finest/" newrelic.yml
 sed -i "s/app_name:\ My\ Application/app_name:\ sample/" newrelic.yml
-sed -i "s/<%= license_key %>/589ba8fc970b753b7f6e0f254755f6e65904c4a5/" newrelic.yml
+sed -i "s/<%= license_key %>/your-newrelic-key/" newrelic.yml
 
 cat ${TOMCAT_HOME}/newrelic/newrelic.yml
 # 启动tomcat
