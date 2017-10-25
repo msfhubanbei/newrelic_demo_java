@@ -1,4 +1,5 @@
 # newrelic_demo_java
+You need to modify "your-newrelic-key" in the script "run.sh"
 build docker images
 ```docker build -t msfhubanbei/sample .```
 run docker 
