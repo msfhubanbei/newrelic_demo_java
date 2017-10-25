@@ -5,5 +5,5 @@ build docker images＜/br＞
 run docker       
 ```docker run -d -p 58081:8080 msfhubanbei/sample```      
 
-It will take about 10 minutes for startting up tomcat.＜/br＞
+It will take about 10 minutes for startting up tomcat./br
 Then you can access the sample by  http://your-machineip:58081/sample/.＜/br＞
