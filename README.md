@@ -9,8 +9,9 @@ It will take about 10 minutes for startting up tomcat.</br>
 Then you can access the sample by  http://your-machineip:58081/sample/.</br>
 
 相关blog： 
-http://blog.csdn.net/hubanbei2010/article/details/78365463
-draw.io file:
+http://blog.csdn.net/hubanbei2010/article/details/78365463</br>
+draw.io file:     
+https://www.draw.io/#Hmsfhubanbei%2Fnewrelic_demo_java%2Fmaster%2Fnewrelic_monitor_javaapp.xml</br>
 
 
 reference:</br>
