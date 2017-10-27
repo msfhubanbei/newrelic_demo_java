@@ -8,6 +8,11 @@ run docker</br>
 It will take about 10 minutes for startting up tomcat.</br>
 Then you can access the sample by  http://your-machineip:58081/sample/.</br>
 
+相关blog： 
+http://blog.csdn.net/hubanbei2010/article/details/78365463
+draw.io file:
+
+
 reference:</br>
 https://kiwenlau.com/2016/01/09/160109-multiple-processes--docker-container/</br>
 https://code.tutsplus.com/tutorials/how-to-monitor-docker-based-applications-using-new-relic--cms-24891</br>
