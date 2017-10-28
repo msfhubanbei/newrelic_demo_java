@@ -8,9 +8,9 @@ run docker</br>
 It will take about 10 minutes for startting up tomcat.</br>
 Then you can access the sample by  http://your-machineip:58081/sample/.</br>
 
-相关blog： 
+Related blog： 
 http://blog.csdn.net/hubanbei2010/article/details/78365463</br>
-实验环境图：</br>
+POC ENV：</br>
 newrelic_monitor_javaapp.pdf</br>
 
 
